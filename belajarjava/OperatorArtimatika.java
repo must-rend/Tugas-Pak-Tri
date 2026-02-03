@@ -1,3 +1,5 @@
+package com.mycompany.belajarjava;
+
 public class OperatorArtimatika {
     
     public static void main(String[] args) {
